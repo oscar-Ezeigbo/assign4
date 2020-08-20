@@ -1,0 +1,7 @@
+E
+B
+
+C:\Users\oscar\source\repos\assign4\Debug\assign4.exe (process 3244) exited with code 0.
+Press any key to close this window . . .
+
+
